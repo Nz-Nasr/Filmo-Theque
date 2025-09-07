@@ -1,2 +1,2 @@
 # Filmo-Theque
-Hodcode 2 Final Project - By Arna Team
+Hodcode 2 Final Project - By Nazanin Nasrabadi
